@@ -1,0 +1,53 @@
+{
+  "A": {
+    "A1": {
+      "status": true,
+      "last_updated": "2026-01-19T19:30:29.052761",
+      "user_id": null
+    },
+    "A2": {
+      "status": true,
+      "last_updated": null,
+      "user_id": null
+    },
+    "A3": {
+      "status": true,
+      "last_updated": null,
+      "user_id": null
+    }
+  },
+  "B": {
+    "B1": {
+      "status": true,
+      "last_updated": null,
+      "user_id": null
+    },
+    "B2": {
+      "status": true,
+      "last_updated": null,
+      "user_id": null
+    },
+    "B3": {
+      "status": true,
+      "last_updated": null,
+      "user_id": null
+    }
+  },
+  "C": {
+    "C1": {
+      "status": true,
+      "last_updated": null,
+      "user_id": null
+    },
+    "C2": {
+      "status": true,
+      "last_updated": null,
+      "user_id": null
+    },
+    "C3": {
+      "status": false,
+      "last_updated": "2026-01-19T19:29:16.292635",
+      "user_id": "9"
+    }
+  }
+}
