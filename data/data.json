@@ -18,13 +18,13 @@
   },
   "B": {
     "B1": {
-      "status": true,
-      "last_updated": null,
-      "user_id": null
+      "status": false,
+      "last_updated": "2026-01-22T11:33:29.921123",
+      "user_id": "1"
     },
     "B2": {
       "status": true,
-      "last_updated": null,
+      "last_updated": "2026-01-22T11:31:18.840676",
       "user_id": null
     },
     "B3": {
