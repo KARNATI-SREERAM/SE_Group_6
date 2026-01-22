@@ -11,7 +11,7 @@ The Smart Parking System is a Python-based application designed to optimize park
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/KARNATI-SREERAM/SE_Group_6.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -30,8 +30,6 @@ The application uses a JSON file located in the `data/` directory for storing pa
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For any inquiries, please contact [Your Name] at [Your Email].
+For any inquiries, please contact Tharun at b23121@students.iitmandi.ac.in.
