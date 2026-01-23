@@ -2,9 +2,11 @@ import json
 
 DATA_PATH = "./data/data.json"
 
+
 def save_data(data):
     with open(DATA_PATH, "w") as file:
         json.dump(data, file, indent=2)
+
 
 def load_data():
     try:

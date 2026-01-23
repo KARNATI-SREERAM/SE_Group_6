@@ -1,9 +1,9 @@
 import os
 import time
 
-from storage import load_data
-from parking_display import display_parking_status
-from parking_actions import book_parking_slot, release_parking_slot
+from src.storage import load_data
+from src.parking_display import display_parking_status
+from src.parking_actions import book_parking_slot, release_parking_slot
 
 
 def main():

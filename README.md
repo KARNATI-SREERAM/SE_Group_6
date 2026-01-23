@@ -6,6 +6,7 @@ The Smart Parking System is a Python-based application designed to optimize park
 ## Features
 - **Real-time Parking Availability**: Displays current availability of parking spaces.
 - **User-Friendly Interface**: Simple and intuitive interface for users to navigate.
+- **Slot Ownership**: Only a specific "User ID" can release the parking space which was provided while booking.
 - **Data Management**: Utilizes JSON for data storage and retrieval.
 
 ## Installation
@@ -21,7 +22,7 @@ The Smart Parking System is a Python-based application designed to optimize park
 ## Usage
 To run the application, execute the following command:
 ```bash
-python smart_parking.py
+python main.py
 ```
 
 ## Data
@@ -32,4 +33,4 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 
 
 ## Contact
-For any inquiries, please contact Tharun at b23121@students.iitmandi.ac.in.
+For any inquiries, please contact Tharun at b23121@students.iitmandi.ac.in, Thrighun at b23323@students.iitmandi.ac.in, Shashi at b23137@students.iitmandi.ac.in.
