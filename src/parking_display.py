@@ -1,9 +1,10 @@
 import os
-from parking_utils import info
+from src.parking_utils import info
+
 
 def display_parking_status(data):
     os.system("cls" if os.name == "nt" else "clear")
-    
+
     green = "🟢"
     red = "🔴"
     total, available, occupied = info(data)

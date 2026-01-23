@@ -1,8 +1,8 @@
 import time
 from datetime import datetime
 
-from parking_utils import validate_slot
-from storage import save_data
+from src.parking_utils import validate_slot
+from src.storage import save_data
 
 
 def book_parking_slot(data, slot):
